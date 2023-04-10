@@ -1,4 +1,4 @@
-## Harp Notifications Phone Call Service
+## Open Source Incident Management system - Harp Notifications Phone Call Service
 
 ### Full info about Project - https://github.com/harpia-io/harpia
 
